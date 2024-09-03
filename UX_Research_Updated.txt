@@ -1,0 +1,63 @@
+UX Design Process:
+
+01- Research:
+============
+	a- Business/ Product Goals: 		
+		- Understanding the Business and product
+		- What Problems the company is trying to solve
+		- How do business gets benefit from this software
+		- Do they have an existing system
+
+		Methods:
+		=======
+		- Kick-off meeting with all the parties, Stakeholder interviews (Create a PRD - Product Requirements document)
+			Review these documents with the business party to ensure accuracy and completeness.
+		- Industry Trends
+		- Competitor Analysis (Market Research)
+		- Current website/application analysis
+
+	b- User Goals:
+		- To know who the Target Audience is
+		- What are there needs and Goals
+		- What are the user problems/pain points/ frustrations
+
+		Methods:
+		- Surveys (Google forms => Document Survey insights)
+		- User interviews (User Interview Scripts - To Gather Insights)
+		- User Persona creation (Its a representation of a user needs/Goals, Frustrations)	
+
+	c- Identify the Stakeholders
+	d: Identify the Risks
+
+	Action:
+	======
+	- Share the Research Insights among PM, Account manager, Tech Lead
+
+02- Analysis and Ideate:
+=======================
+	a- User Flows/ User Journey Maps
+		- High level business mode (Overall user flow at start)
+		- Then the sub flows
+	b- Paper wireframing
+	c- Card sorting techniques (To get ideas of the Team)/ Affinity diagrams
+
+03- Design/ Prototype:
+=====================
+	- Low Fidelity Wireframes (Iterate this step until Client satisfies on UI structure)
+	- High Fidelity mockups/ prototypes (Get Design System, Style guide if available, otherwise create in simple terms as a start)
+	- Consider Information Architecture, Navigation, Layout
+	- Consider Accessibility as well
+  
+04- User Testing:
+================
+	- Remote vs. in-person user testing
+	- Qualitative (Google Analytics, HotJar) & Quantitative 
+	- Moderate and 
+	- A/B Testing
+	- Fixed-question surveys or questionnaires (Google forms)
+
+
+
+
+
+
